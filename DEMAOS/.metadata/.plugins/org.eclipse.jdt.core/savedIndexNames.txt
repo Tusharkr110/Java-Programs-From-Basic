@@ -1,0 +1,7 @@
+INDEX VERSION 1.134+C:\Users\Tushar Kumar\Desktop\JAVA_PROGRAMS\DEMAOS\.metadata\.plugins\org.eclipse.jdt.core
+3219992257.index
+1865797976.index
+3416853083.index
+495363174.index
+1818320769.index
+1267755993.index
